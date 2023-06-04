@@ -1,0 +1,32 @@
+
+
+.todoItems {
+    background: whitesmoke;
+    margin: 20px 500px 0px 500px;
+    padding: 0px 20px 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    box-shadow: 0 0 10px gray;
+}
+
+.removeTodo {
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+.checkTodo {
+    width: 30px;
+    height: 30px;
+}
+
+.checked {
+    color: orange;
+}
+
+.changeInput {
+    font-size: 20px ;
+    margin: 10px 0px 10px 0px;
+}
